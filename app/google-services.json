@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336509939151",
+    "project_id": "wordpractice-6f55d",
+    "storage_bucket": "wordpractice-6f55d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336509939151:android:ec8cbe6603a2c47c6836ba",
+        "android_client_info": {
+          "package_name": "com.furkansemizoglu.wordpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336509939151-rtgkl10sgae8clr2qq6ibvo0jbdv7162.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWIaawEH0HJhk713e3nuu62fp4hsyvvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336509939151-rtgkl10sgae8clr2qq6ibvo0jbdv7162.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
